@@ -1,7 +1,7 @@
 /obj/item/clothing/overwear/armor/hostile
 	name = "hostile environment suit"
 	desc = "RIP AND TEAR."
-	desc_extended = "An extremely heavy duty armor set only meant for the badest of badasses."
+	desc_extended = "An extremely heavy duty armor set only meant for the baddest of badasses."
 	icon = 'icons/obj/item/clothing/suit/hostile.dmi'
 
 	rarity = RARITY_LEGENDARY
